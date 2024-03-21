@@ -1,5 +1,5 @@
 # Real-Time Data Streaming and Processing Pipeline Using Apache Kafka
-
+## CS777: Term Project - Maryam Baizhigitova and Kaiwen Zhu
 ## Overview
 
 This project showcases the creation and refinement of a real-time analytical pipeline, utilizing Apache Kafka combined with a machine learning model for effective data stream classification. Centered on the Iris dataset, the project highlights the importance of real-time analytics and demonstrates Kafka's capability to handle high-throughput data streams with efficiency, reliability, scalability, and fault tolerance.
