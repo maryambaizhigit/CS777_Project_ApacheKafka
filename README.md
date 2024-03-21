@@ -39,6 +39,4 @@ The goal is to develop and iteratively improve a real-time analytical pipeline i
 - **Demo 2: Baseline System Establishment** - Establishes the foundational Kafka infrastructure and a simple machine learning model, implementing a basic feedback loop as a proof of concept and groundwork for further enhancements.
 
 These demonstrations serve to illustrate the progression from a prototype to an optimized analytical solution, highlighting the application of Kafka in streaming analytics and machine learning integration for real-time actionable insights.
-```
 
-This script is ready to be copied into a `README.md` file on GitHub, providing a clear, structured overview of your project.
